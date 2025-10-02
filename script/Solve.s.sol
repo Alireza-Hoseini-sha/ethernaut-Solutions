@@ -29,6 +29,7 @@ contract Solve is Script {
 
     function run() external {
         target = MagicNum(instanceAddre);
+        
         vm.startBroadcast();
         attack = new Attack(target);
         attack.deploy();
