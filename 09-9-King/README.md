@@ -1,0 +1,5 @@
+Submit level txnHash:0xfd8a3e37e5db32f83973fb712f26a4df60db4fef996a669ee100bb55f6be24f0
+Instance address: 0xcE9B38de0bE7e40e435C3DE27C822eAd116Cf448
+Level address: 0x39DFCa77F257423621f9fb8a248cb6E3EaDb5016
+
+![alt text](king.sol.png)
